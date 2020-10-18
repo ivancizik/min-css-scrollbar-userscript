@@ -1,6 +1,13 @@
 # min-css-scrollbar-userscript  
 
-Adds nicer scrollbar in [Min](https://minbrowser.github.io/min).  
+Adds CSS scrollbars and Integration of [Overlay Scrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview) for [Min](https://minbrowser.github.io/min) Browser.
+  
+  
+3 scripts are included:  
+* `min-css-scrollbar-userscript.js` - A simple CSS scrollbar based on [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_scrollbar) example
+* `min-css-scrollbar-autohide-userscript.js` - A simple CSS scrollbar based on [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_scrollbar) example but is only visible on mouse hover  
+* `min-overlay-socrollbars.js` - Integration of [Overlay Scrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview)   
+  
 
 ![Screenshot](/screenshot.png?raw=true)
 
