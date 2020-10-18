@@ -13,5 +13,5 @@ Adds CSS scrollbars and Integration of [Overlay Scrollbars](https://kingsora.git
 
 To install: 
 
-* Enable userscripts in Min and create a `userscripts` folder following [these instructions](https://github.com/minbrowser/min/wiki/userscripts), and save `min-css-scrollbar-userscript.js` or `min-css-scrollbar-autohide-userscript.js` inside it.
+* Enable userscripts in Min and create a `userscripts` folder following [these instructions](https://github.com/minbrowser/min/wiki/userscripts), and save `min-css-scrollbar-userscript.js` or `min-css-scrollbar-autohide-userscript.js` or `min-overlay-socrollbars.js` inside it.
 * Restart Min. 
