@@ -72,4 +72,4 @@ document.head.insertAdjacentHTML('beforeend','<link rel="stylesheet" href="https
       document.head.appendChild(style)
 
     }
-   }, 3000);
+   }, 1000);
